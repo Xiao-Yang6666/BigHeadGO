@@ -33,6 +33,8 @@
     <modules>
         <module>eureka-server</module>
         <module>springBoot-admin-server</module>
+        <module>bighead-api</module>
+        <module>bighead-common</module>
     </modules>
 
     <dependencies>
