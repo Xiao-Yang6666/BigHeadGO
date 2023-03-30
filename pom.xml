@@ -31,11 +31,11 @@
     </properties>
 
     <modules>
-        <module>eureka-server</module>
         <module>springBoot-admin-server</module>
         <module>bighead-api</module>
         <module>bighead-common</module>
         <module>bighead-auth</module>
+        <module>bighead-eureka</module>
     </modules>
 
     <dependencies>
