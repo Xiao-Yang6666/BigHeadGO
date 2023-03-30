@@ -35,6 +35,7 @@
         <module>springBoot-admin-server</module>
         <module>bighead-api</module>
         <module>bighead-common</module>
+        <module>bighead-auth</module>
     </modules>
 
     <dependencies>
